@@ -24,13 +24,9 @@
 
 ## 游戏截图
 
-<img src="/Users/pengweiyi/Library/Application Support/typora-user-images/image-20210820165135999.png" alt="image-20210820165135999" style="zoom:30%;" />
-
-<img src="/Users/pengweiyi/Library/Application Support/typora-user-images/image-20210820165338277.png" alt="image-20210820165338277" style="zoom:30%;" />
-
-<img src="/Users/pengweiyi/Library/Application Support/typora-user-images/image-20210820164949560.png" alt="image-20210820164949560" style="zoom:50%;" />
-
-<img src="/Users/pengweiyi/Library/Application Support/typora-user-images/image-20210820165029172.png" alt="image-20210820165029172" style="zoom:50%;" />
+![image](https://user-images.githubusercontent.com/45311091/130209254-efd7ce9e-de91-4b82-aadf-a4d9fc700dec.png)
+![image](https://user-images.githubusercontent.com/45311091/130209615-35279aee-674d-49f9-975d-b31f74dc348d.png)
+![image](https://user-images.githubusercontent.com/45311091/130209653-5012592d-0bfb-41b1-a037-97a0ef1bded0.png)
 
 ## END
 
